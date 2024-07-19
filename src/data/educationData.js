@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'University of Massachusetts Amherst',
+        course: 'M.S in Computer Science',
+        startYear: '2023',
+        endYear: '2025'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
-        endYear: 'Present'
+        institution: 'National Chung Cheng University',
+        course: 'B.S in Computer Science and Information Engineering',
+        startYear: '2018',
+        endYear: '2022'
     },
 ]

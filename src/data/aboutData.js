@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name is Elane(Yi-Ting) Han. I am a Computer Science graduate student at the UMass Amherst with a strong background in machine learning, full-stack development, and data analysis. ",
+    description2: "At Rescue Lab UMass Amherst, I lead a team integrating computer vision models with a Nest.js backend, aiding law enforcement by analyzing over 9,000 images and videos. My prior experience as a Data Engineer at Academia Sinica involved enhancing cancer detection through deep learning and developing a pioneering Python tool for single-cell sequencing data. I've worked on innovative projects such as Dream Singer, an AI-generated song cover platform, and a real-time product recognition app in mixed reality, achieving high accuracy and earning the Undergraduate Research Fellowship. I am eager to connect with professionals and contribute to impactful technological solutions.",
     image: 2
 }
