@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elanehan-portfolio/static/css/main.72acb545.chunk.css",
-    "main.js": "/elanehan-portfolio/static/js/main.b6236181.chunk.js",
-    "main.js.map": "/elanehan-portfolio/static/js/main.b6236181.chunk.js.map",
+    "main.js": "/elanehan-portfolio/static/js/main.313dee2c.chunk.js",
+    "main.js.map": "/elanehan-portfolio/static/js/main.313dee2c.chunk.js.map",
     "runtime-main.js": "/elanehan-portfolio/static/js/runtime-main.b10bd4de.js",
     "runtime-main.js.map": "/elanehan-portfolio/static/js/runtime-main.b10bd4de.js.map",
     "static/css/2.6d08d55f.chunk.css": "/elanehan-portfolio/static/css/2.6d08d55f.chunk.css",
@@ -19,6 +19,7 @@
     "static/media/CCU.82670e81.png": "/elanehan-portfolio/static/media/CCU.82670e81.png",
     "static/media/MR.1f73003a.png": "/elanehan-portfolio/static/media/MR.1f73003a.png",
     "static/media/RL.d93c837c.png": "/elanehan-portfolio/static/media/RL.d93c837c.png",
+    "static/media/Yi_Ting_Han_Resume.002179ec.pdf": "/elanehan-portfolio/static/media/Yi_Ting_Han_Resume.002179ec.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/elanehan-portfolio/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/elanehan-portfolio/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/elanehan-portfolio/static/media/after-effects.3c076652.svg",
@@ -130,7 +131,6 @@
     "static/media/react.2b6a0717.svg": "/elanehan-portfolio/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/elanehan-portfolio/static/media/redTheme-boy.846d9d39.svg",
     "static/media/redTheme-girl.1ebbd52c.svg": "/elanehan-portfolio/static/media/redTheme-girl.1ebbd52c.svg",
-    "static/media/resume.bc382d73.pdf": "/elanehan-portfolio/static/media/resume.bc382d73.pdf",
     "static/media/ruby.34e792ab.svg": "/elanehan-portfolio/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/elanehan-portfolio/static/media/selenium.7dcf1c14.svg",
     "static/media/selfie.5a21bb30.jpg": "/elanehan-portfolio/static/media/selfie.5a21bb30.jpg",
@@ -160,6 +160,6 @@
     "static/css/2.6d08d55f.chunk.css",
     "static/js/2.62b3629f.chunk.js",
     "static/css/main.72acb545.chunk.css",
-    "static/js/main.b6236181.chunk.js"
+    "static/js/main.313dee2c.chunk.js"
   ]
 }
