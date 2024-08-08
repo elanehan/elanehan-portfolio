@@ -1,7 +1,7 @@
 import one from '../assets/png/tattootrace.png'
-import two from '../assets/png/dreamsinger.png'
+import four from '../assets/png/dreamsinger.png'
 import three from '../assets/png/MR.png'
-import four from '../assets/svg/projects/four.svg'
+import two from '../assets/png/linebot.png'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
@@ -20,21 +20,30 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Dream Singer',
-        projectDesc: 'A Web Platform for AI Song Cover that support user account management, historical songaccess, and cloud deployment.',
-        tags: ['JavaScript', 'Django', 'REST API'],
-        code: 'https://github.com/6-Million/DreamSinger',
-        demo: 'https://drive.google.com/file/d/1J9O2HuokkDFKqkp9WnPjT7rKUYb5Cona/view',
+        projectName: 'LineReminderAssistant: A ChatBot for Tasks Reminder',
+        projectDesc: 'A Line Bot that helps users to manage their daily tasks and reminders. The bot can send reminders to users at a specific time and date.',
+        tags: ['GCP', 'Kubernetes', 'Flask', 'Docker'],
+        code: 'https://github.com/elanehan/linebot-reminder',
+        demo: 'https://drive.google.com/file/d/1gx6wD-fwdyGCF9k_6ESadKVNU_GXFv2F/view?usp=drive_link',
         image: two
     },
     {
         id: 3,
         projectName: 'Real-Time Product Information App in Mixed Reality',
-        projectDesc: 'real-time product recognition system for MR devices, enabling customers to access convenience store product details like price, ingredients, and calories.',
+        projectDesc: 'Real-time product recognition system for MR devices, enabling customers to access convenience store product details like price, ingredients, and calories.',
         tags: ['Python', 'YOLOv5', 'C#', 'Unity'],
         code: 'https://docs.google.com/document/d/1VQzwUrm0Fdn5htG9QQANOlNisgwKBFoC/edit?usp=sharing&ouid=109274637105206472637&rtpof=true&sd=true',
         demo: 'https://www.youtube.com/watch?v=0VCAqIYoM0Q',
         image: three
+    },
+    {
+        id: 4,
+        projectName: 'Dream Singer',
+        projectDesc: 'A Web Platform for AI Song Cover that support user account management, historical songaccess, and cloud deployment.',
+        tags: ['JavaScript', 'Django', 'REST API'],
+        code: 'https://github.com/6-Million/DreamSinger',
+        demo: 'https://drive.google.com/file/d/1J9O2HuokkDFKqkp9WnPjT7rKUYb5Cona/view',
+        image: four
     },
     // {
     //     id: 4,
